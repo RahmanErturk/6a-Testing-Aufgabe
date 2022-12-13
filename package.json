@@ -1,0 +1,23 @@
+{
+  "name": "7a-Testing-Aufgabe",
+  "version": "1.0.0",
+  "description": "## Aufgabe 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahmanErturk/7a-Testing-Aufgabe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahmanErturk/7a-Testing-Aufgabe/issues"
+  },
+  "homepage": "https://github.com/RahmanErturk/7a-Testing-Aufgabe#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
